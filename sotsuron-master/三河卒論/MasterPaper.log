@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  28 DEC 2022 22:57
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  29 DEC 2022 02:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -457,11 +457,15 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[9])
+[9]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[10]
+[10])
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[11]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
@@ -471,7 +475,7 @@ File: images/chapter3/winper.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[11
+[12
 
 
 
@@ -480,13 +484,13 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[12]
+[13]
 File: images/chapter3/sports_bar.eps Graphic file (type eps)
  <images/chapter3/sports_bar.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[13]
+[14]
 File: images/chapter3/robot.eps Graphic file (type eps)
  <images/chapter3/robot.eps>
 File: images/chapter3/Vive.eps Graphic file (type eps)
@@ -494,13 +498,13 @@ File: images/chapter3/Vive.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[14]
+[15]
 File: images/chapter3/bar_scene.eps Graphic file (type eps)
  <images/chapter3/bar_scene.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[15]
+[16]
 File: images/chapter3/Idle.eps Graphic file (type eps)
  <images/chapter3/Idle.eps>
 File: images/chapter3/happy.eps Graphic file (type eps)
@@ -513,11 +517,11 @@ File: images/chapter3/sad.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[16]
+[17]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[17])
+[18])
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -526,7 +530,7 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[18
+[19
 
 
 
@@ -535,25 +539,21 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[19]
+[20]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[20
+[21
 
 ]
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[21]
-File: images/chapter4/0416.eps Graphic file (type eps)
- <images/chapter4/0416.eps>
-File: images/chapter4/0418.eps Graphic file (type eps)
- <images/chapter4/0418.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [22]
+File: images/chapter4/0416.eps Graphic file (type eps)
+ <images/chapter4/0416.eps>
+File: images/chapter4/0418.eps Graphic file (type eps)
+ <images/chapter4/0418.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -562,6 +562,10 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [24]
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[25]
 File: images/chapter4/Q1.eps Graphic file (type eps)
  <images/chapter4/Q1.eps>
 File: images/chapter4/Q2.eps Graphic file (type eps)
@@ -569,7 +573,7 @@ File: images/chapter4/Q2.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[25]
+[26]
 File: images/chapter4/Q3.eps Graphic file (type eps)
  <images/chapter4/Q3.eps>
 File: images/chapter4/Q4.eps Graphic file (type eps)
@@ -577,7 +581,7 @@ File: images/chapter4/Q4.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[26]
+[27]
 File: images/chapter4/Q5.eps Graphic file (type eps)
  <images/chapter4/Q5.eps>
 File: images/chapter4/Q6.eps Graphic file (type eps)
@@ -585,7 +589,7 @@ File: images/chapter4/Q6.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[27]
+[28]
 File: images/chapter4/Q7.eps Graphic file (type eps)
  <images/chapter4/Q7.eps>
 File: images/chapter4/Q8.eps Graphic file (type eps)
@@ -593,7 +597,7 @@ File: images/chapter4/Q8.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[28]
+[29]
 File: images/chapter4/Q9.eps Graphic file (type eps)
  <images/chapter4/Q9.eps>
 File: images/chapter4/Q10.eps Graphic file (type eps)
@@ -601,7 +605,7 @@ File: images/chapter4/Q10.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[29]
+[30]
 File: images/chapter4/Q11.eps Graphic file (type eps)
  <images/chapter4/Q11.eps>
 File: images/chapter4/Q12.eps Graphic file (type eps)
@@ -609,7 +613,7 @@ File: images/chapter4/Q12.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[30]
+[31]
 File: images/chapter4/Q13.eps Graphic file (type eps)
  <images/chapter4/Q13.eps>
 File: images/chapter4/Q14.eps Graphic file (type eps)
@@ -617,17 +621,17 @@ File: images/chapter4/Q14.eps Graphic file (type eps)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[31]
+[32]
 File: images/chapter4/Q15.eps Graphic file (type eps)
  <images/chapter4/Q15.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[32])
+[33])
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[33]
+[34]
 \openout2 = `Conclusion.aux'.
 
  (./Conclusion.tex
@@ -636,7 +640,7 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[34
+[35
 
 
 
@@ -645,10 +649,10 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[35]
+[36]
 \openout2 = `acknowledgement.aux'.
 
- (./acknowledgement.tex) [36
+ (./acknowledgement.tex) [37
 
 
 
@@ -664,7 +668,7 @@ S.Dieleman\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 D.Grewe\JY1/hmc/m/n/12 ， \OT1/cm
 /m/n/12 J.Nham\JY1/hmc/m/n/12 ，
  []
 
-[37
+[38
 
 
 
@@ -673,11 +677,11 @@ S.Dieleman\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 D.Grewe\JY1/hmc/m/n/12 ， \OT1/cm
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[38])
+[39])
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[39] (./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
+[40] (./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./Conclusion.aux) (./acknowledgement.aux) (./reference.aux))
 
 LaTeX Font Warning: Size substitutions with differences
@@ -687,10 +691,10 @@ LaTeX Font Warning: Size substitutions with differences
 Here is how much of TeX's memory you used:
  4799 strings out of 475427
  70959 string characters out of 5791343
- 409874 words of memory out of 5000000
+ 409877 words of memory out of 5000000
  26401 multiletter control sequences out of 15000+600000
  491692 words of font info for 138 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  55i,12n,62p,173265b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on MasterPaper.dvi (42 pages, 81260 bytes).
+Output written on MasterPaper.dvi (43 pages, 86252 bytes).
