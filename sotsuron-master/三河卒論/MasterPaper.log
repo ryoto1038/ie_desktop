@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  28 DEC 2022 14:52
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  28 DEC 2022 15:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -673,12 +673,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4799 strings out of 475427
- 70962 string characters out of 5791343
- 409866 words of memory out of 5000000
- 26401 multiletter control sequences out of 15000+600000
+ 4797 strings out of 475427
+ 70944 string characters out of 5791343
+ 409846 words of memory out of 5000000
+ 26399 multiletter control sequences out of 15000+600000
  491692 words of font info for 138 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  55i,12n,62p,173265b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on MasterPaper.dvi (39 pages, 81992 bytes).
+Output written on MasterPaper.dvi (39 pages, 77488 bytes).

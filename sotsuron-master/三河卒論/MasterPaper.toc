@@ -7,13 +7,11 @@
 \contentsline {subsection}{\numberline {2.1.4}交叉処理}{4}{}%
 \contentsline {subsection}{\numberline {2.1.5}突然変異処理}{4}{}%
 \contentsline {section}{\numberline {2.2}対話型進化計算}{5}{}%
-\contentsline {subsection}{\numberline {2.2.1}集団における一体感}{5}{}%
-\contentsline {subsection}{\numberline {2.2.2}感情伝播}{5}{}%
-\contentsline {section}{\numberline {2.3}対話型遺伝的アルゴリズム}{6}{}%
+\contentsline {subsection}{\numberline {2.2.1}対話型進化計算の概要}{5}{}%
+\contentsline {subsection}{\numberline {2.2.2}対話型遺伝的アルゴリズム}{5}{}%
+\contentsline {section}{\numberline {2.3}感性とロボット}{6}{}%
 \contentsline {subsection}{\numberline {2.3.1}ロボットの進化}{6}{}%
-\contentsline {subsection}{\numberline {2.3.2}ロボットへの感性導入}{6}{}%
-\contentsline {subsection}{\numberline {2.3.3}ロボット集団と人間のインタラクション}{7}{}%
-\contentsline {section}{\numberline {2.4}感性とロボット}{7}{}%
+\contentsline {subsection}{\numberline {2.3.2}性格特性とハンドジェスチャ}{6}{}%
 \contentsline {chapter}{\numberline {第3章}臨場感を演出する集団ロボットの内部モデル}{8}{}%
 \contentsline {section}{\numberline {3.1}モデルの概要}{8}{}%
 \contentsline {subsection}{\numberline {3.1.1}試合状況の読み取り}{8}{}%
