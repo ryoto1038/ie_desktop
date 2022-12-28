@@ -1,0 +1,62 @@
+This is JBibTeX, Version 0.99c-j0.33 (sjis) (Web2C 7.5.5)
+The top-level auxiliary file: MasterPaper.aux
+The style file: junsrt.bst
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: chapter2.aux
+A level-1 auxiliary file: chapter3.aux
+A level-1 auxiliary file: chapter4.aux
+A level-1 auxiliary file: chapter5.aux
+A level-1 auxiliary file: Conclusion.aux
+A level-1 auxiliary file: acknowledgement.aux
+A level-1 auxiliary file: reference.aux
+I found no \bibdata command---while reading file MasterPaper.aux
+Reallocated wiz_functions (elt_size=4) to 3400 items from 0.
+Warning--I didn't find a database entry for "IGA‚U"
+Warning--I didn't find a database entry for "ƒg[ƒiƒƒ“ƒgŽ®•]‰¿Žè–@‚P"
+Warning--I didn't find a database entry for "‘ÎíŒ‹‰Ê„’è"
+Warning--I didn't find a database entry for "ƒg[ƒiƒƒ“ƒgŽ®•]‰¿Žè–@‚Q"
+Warning--I didn't find a database entry for "•¡”ŽQ‰ÁŒ^ƒg[ƒiƒƒ“ƒg•ûŽ®"
+Warning--I didn't find a database entry for "Š¯”\•]‰¿‚ÌŠî‘b"
+You've used 0 entries,
+            2270 wiz_defined-function locations,
+            552 strings with 4275 characters,
+and the built_in function-call counts, 18 in all, are:
+= -- 0
+> -- 0
+< -- 0
++ -- 0
+- -- 0
+* -- 2
+:= -- 7
+add.period$ -- 0
+call.type$ -- 0
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 0
+duplicate$ -- 0
+empty$ -- 1
+format.name$ -- 0
+if$ -- 1
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 3
+num.names$ -- 0
+pop$ -- 0
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 0
+width$ -- 0
+write$ -- 2
+is.kanji.str$ -- 0
+(There was 1 error message)

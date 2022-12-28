@@ -1,0 +1,119 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2017.1.29)  2 FEB 2018 21:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./subfigure.ins
+(./subfigure.ins
+pLaTeX2e <2016/11/29> (based on LaTeX2e <2017/01/01> patch level 1)
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(c:/w32tex/share/texmf-dist/tex/latex/base/docstrip.tex
+\blockLevel=\count82
+\emptyLines=\count83
+\processedLines=\count84
+\commentsRemoved=\count85
+\commentsPassed=\count86
+\codeLinesPassed=\count87
+\TotalprocessedLines=\count88
+\TotalcommentsRemoved=\count89
+\TotalcommentsPassed=\count90
+\TotalcodeLinesPassed=\count91
+\NumberOfFiles=\count92
+\inFile=\read1
+\inputcheck=\read2
+\off@0=\count93
+\off@1=\count94
+\off@2=\count95
+\off@3=\count96
+\off@4=\count97
+\off@5=\count98
+\off@6=\count99
+\off@7=\count100
+\off@8=\count101
+\off@9=\count102
+\off@10=\count103
+\off@11=\count104
+\off@12=\count105
+\off@13=\count106
+\off@14=\count107
+\off@15=\count108
+\@maxfiles=\count109
+\@maxoutfiles=\count110
+
+Utility: `docstrip' 2.5e <2014/09/29>
+English documentation    <2014/09/29>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+(./subfigure.ins
+
+Generating file(s) ./ltxdoc.cfg 
+\openout0 = `./ltxdoc.cfg'.
+
+
+Processing file subfigure.dtx (ltxdoc) -> ltxdoc.cfg
+File subfigure.dtx ended by \endinput.
+Lines  processed: 3939
+Comments removed: 3522
+Comments  passed: 26
+Codelines passed: 383
+
+
+Generating file(s) ./subfigure.cfg 
+\openout0 = `./subfigure.cfg'.
+
+
+Processing file subfigure.dtx (newconf) -> subfigure.cfg
+File subfigure.dtx ended by \endinput.
+Lines  processed: 3939
+Comments removed: 3522
+Comments  passed: 26
+Codelines passed: 383
+
+
+Generating file(s) ./subfigure.sty 
+\openout0 = `./subfigure.sty'.
+
+
+Processing file subfigure.dtx (package) -> subfigure.sty
+File subfigure.dtx ended by \endinput.
+Lines  processed: 3939
+Comments removed: 3522
+Comments  passed: 26
+Codelines passed: 383
+
+***********************************************************
+* To finish the installation you have to move the file
+* `subfigure.sty' into a directory searched by TeX.
+*
+* To have the newer look-and-feel (but with different
+* spacing than the old version) move the file
+* `subfigure.cfg' into a directory searched by TeX.
+*
+* To produce the documentation run the file `subfigure.dtx'
+* through LaTeX.
+***********************************************************
+)
+Overall statistics:
+Files  processed: 3
+Lines  processed: 11817
+Comments removed: 10566
+Comments  passed: 78
+Codelines passed: 1149
+ ) ) 
+Here is how much of TeX's memory you used:
+ 335 strings out of 493671
+ 3375 string characters out of 6151255
+ 64171 words of memory out of 5000000
+ 3999 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 16i,0n,18p,220b,130s stack positions out of 5000i,500n,10000p,500000b,80000s
+
+No pages of output.

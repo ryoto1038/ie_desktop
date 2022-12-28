@@ -1,0 +1,49 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.sjis) (TeX Live 2016/W32TeX) (preloaded format=platex 2017.1.29)  2 FEB 2018 21:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./test2.tex
+(./test2.tex
+pLaTeX2e <2016/11/29> (based on LaTeX2e <2017/01/01> patch level 1)
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(c:/w32tex/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/w32tex/share/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen118
+)
+
+! LaTeX Error: File `fullpage.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.5 \usepackage
+               [tight,hang]{subfigure}^^M
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 199 strings out of 493671
+ 2075 string characters out of 6151255
+ 57608 words of memory out of 5000000
+ 3862 multiletter control sequences out of 15000+600000
+ 7511 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 22i,0n,17p,136b,35s stack positions out of 5000i,500n,10000p,500000b,80000s
+No pages of output.

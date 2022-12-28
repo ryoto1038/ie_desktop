@@ -1,0 +1,124 @@
+\documentclass[a4j,12pt,onecolumn,oneside,notitlepage,openany,jarticle,final]{jreport}%両面刷り
+%
+\usepackage{cite}
+\usepackage{makeidx,graphicx,epsbox,delarray}
+\usepackage{fancyhdr,hhline,array}
+\usepackage{pifont}
+\usepackage{amssymb}
+\usepackage{subfigure}
+\usepackage{multirow}
+\usepackage[dvipdfmx]{}
+\usepackage{otf}
+\usepackage{here}
+\usepackage{url}
+\renewcommand{\bibname}{参考文献}
+\bibliographystyle{junsrt} 
+%余白の設定　Ａ４は縦297mm 横210mm　初期余白25.4mm
+\topmargin=4.6mm %上余白 ヘッダをいれて３０ｍｍにする（4.6＝30-25.4）その後微調整
+\oddsidemargin=6.6mm %左余白　４０ｍｍ＝25.4＋14.6
+\textwidth=158mm %適当に決めました(155=210-40-15)
+\textheight=252.5mm %同様に↑(232=297-40-25)
+\makeindex
+\date{}
+%ページ番号を各ページ下に表示
+\pagestyle{fancy}
+% ヘッダの下線を引かない。
+\lhead{}
+\chead{}
+\rhead{}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+%以下「\UTF{2460}」等の囲い文字を使うための新しいコマンドを定義
+\newcommand{\MARU}[1]{{\ooalign{\hfil#1\/\hfil\crcr
+\raise.167ex\hbox{\mathhexbox20D}}}}
+%
+% 本文の行数と桁数を指定出来るように
+\def\linesparpage#1{\baselineskip=\textheight
+\divide\baselineskip by #1}
+\def\kcharparline#1{%
+\ifx\xkanjiskip\undefined%
+% NTT jTeX用
+\jintercharskip 0mm plus 0.2mm minus 0.2mm
+\else
+% ASCII pTex用
+\xkanjiskip 0mm plus 0.2mm minus 0.2mm
+\fi
+\settowidth{\textwidth}{}%
+\multiply\textwidth by #1}
+%
+%%% Document Start %%%%%%%%%
+%
+\begin{document}
+%タイトルページ
+\begin{titlepage}
+\begin{center}
+%
+\vspace{20pt}
+{\fontsize{50pt}{0pt}\selectfont \bf 関西大学 \\ \vspace{12pt} システム理工学部 \\ \vspace{12pt} 卒業論文} \\ %タイトル
+\vspace{50pt}
+%
+{\fontsize{25pt}{0pt}\selectfont \underline{2022年度}} \\
+\vspace{30pt}
+{\fontsize{25pt}{0pt}\selectfont \bfseries
+	\underline{対話型進化計算} \\
+	\vspace{7pt}
+	\underline{性格特性を表現} \\
+	\vspace{7pt}
+	\underline{ロボットジェスチャの最適化}
+} \\
+\vspace{30pt}
+%
+{\fontsize{22pt}{0pt}\selectfont 電気電子情報工学科} \\
+\vspace{30pt}
+{\fontsize{22pt}{0pt}\selectfont \underline{学籍番号 電19-0188} \\}
+\vspace{15pt}
+\underline{{\fontsize{22pt}{0pt}\selectfont 氏 名}\hspace{11pt}{\fontsize{30pt}{0pt}\selectfont 三河 亮斗}} \\
+\vspace{15pt}
+\underline{{\fontsize{22pt}{0pt}\selectfont 指導教授}{\fontsize{30pt}{0pt}\selectfont \hspace{5zw}}{\fontsize{12pt}{0pt}\selectfont 印}} \\
+\vspace{25pt}
+%
+\fbox{{\fontsize{28pt}{0pt}\selectfont 感性情報システム研究室}} \\
+\end{center}
+\end{titlepage}
+%フォントサイズと行間を指定
+\fontsize{12pt}{21pt}
+\selectfont
+% 一ページを30行に
+\linesparpage{30}
+%タイトルと要旨はページ番号を出力しない
+\pagestyle{empty}
+%
+\topmargin=-20.6mm %上余白 ヘッダをいれて３０ｍｍにする（4.6＝30-25.4）その後微調整
+\oddsidemargin=6.6mm %左余白　４０ｍｍ＝25.4＋14.6
+\textwidth=155mm %適当に決めました(155=210-40-15)
+\textheight=252.5mm %同様に↑(232=297-40-25)
+%目次のページ番号をローマ数字に指定
+\addtolength{\textheight}{-12truemm}
+\setcounter{page}{1}
+\pagenumbering{roman}
+\pagestyle{fancy}
+%目次出力
+\tableofcontents
+
+\topmargin=-8.6mm %上余白 ヘッダをいれて３０ｍｍにする（4.6＝30-25.4）その後微調整
+\oddsidemargin=6.6mm %左余白　４０ｍｍ＝25.4＋14.6
+\textwidth=155mm %適当に決めました(155=210-40-15)
+\textheight=240.5mm %同様に↑(232=297-40-25)
+
+\include{introduction}
+
+\include{chapter2}
+
+\include{chapter3}
+
+\include{chapter4}
+
+\include{Conclusion}
+
+\include{acknowledgement}
+
+\include{reference}
+%
+\pagestyle{empty}
+%
+\end{document}
