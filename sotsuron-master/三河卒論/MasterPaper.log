@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  30 DEC 2022 02:08
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  31 DEC 2022 00:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -30,13 +30,6 @@ LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
 \@lnumwidth=\dimen157
 \bibindent=\dimen158
 \heisei=\count194
-) (./cite.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 373.
-Package: cite 2010/09/10  v 5.3
-)
-(c:/texlive/2022/texmf-dist/tex/latex/base/makeidx.sty
-Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
 (c:/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -54,13 +47,19 @@ Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
 (c:/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 107.
+Package graphics Info: Driver file: dvipdfmx.def on input line 107.
 
-(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+(c:/texlive/2022/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2022/09/22 v5.0m Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen159
 \Gin@req@width=\dimen160
+) (./cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 373.
+Package: cite 2010/09/10  v 5.3
+) (c:/texlive/2022/texmf-dist/tex/latex/base/makeidx.sty
+Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 ) (./EPSBOX.sty
 EPSbox version 1.7b for LaTeX/jdvi2kps2.1-3.0 (May 26, 1992)
 Based on EPSF macro package. version 1.2 - Released July 16, 1990
@@ -191,9 +190,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 
 Writing index file MasterPaper.idx
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 51.
+(Font)              scaled to size 11.54663pt on input line 54.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 11.54663pt on input line 51.
+(Font)              scaled to size 11.54663pt on input line 54.
 (c:/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2022-10-26 L3 backend support: dvips
 \l__pdf_internal_box=\box72
@@ -212,154 +211,154 @@ LaTeX Warning: Unused global option(s):
 (./chapter4.aux) (./Conclusion.aux) (./acknowledgement.aux) (./reference.aux))
 \openout1 = `MasterPaper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 54.
+LaTeX Font Info:    ... okay on input line 54.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 48.11096pt on input line 57.
+(Font)              scaled to size 48.11096pt on input line 60.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 48.11096pt on input line 57.
+(Font)              scaled to size 48.11096pt on input line 60.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <50> not available
-(Font)              size <24.88> substituted on input line 57.
+(Font)              size <24.88> substituted on input line 60.
 
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' in size <50> not available
-(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 57.
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 48.11096pt on input line 57.
+(Font)              scaled to size 48.11096pt on input line 60.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' in size <50> not available
-(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 57.
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 60.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 48.11096pt on input line 57.
+(Font)              scaled to size 48.11096pt on input line 60.
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/n' in size <50> not available
-(Font)              size <24.88> substituted on input line 57.
+(Font)              size <24.88> substituted on input line 60.
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 24.05548pt on input line 60.
+(Font)              scaled to size 24.05548pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 24.05548pt on input line 60.
-LaTeX Font Info:    Calculating math sizes for size <25> on input line 60.
+(Font)              scaled to size 24.05548pt on input line 63.
+LaTeX Font Info:    Calculating math sizes for size <25> on input line 63.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 60.
+(Font)              size <12> substituted on input line 63.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <12.5> not available
-(Font)              size <12> substituted on input line 60.
+(Font)              size <12> substituted on input line 63.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <12.5> not available
-(Font)              size <12> substituted on input line 60.
+(Font)              size <12> substituted on input line 63.
 
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 16.83876pt on input line 60.
+(Font)              scaled to size 16.83876pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 12.02774pt on input line 60.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+(Font)              scaled to size 12.02774pt on input line 63.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 63.
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 63.
 
 
 (c:/texlive/2022/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' in size <25> not available
-(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 62.
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 24.05548pt on input line 62.
+(Font)              scaled to size 24.05548pt on input line 65.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' in size <25> not available
-(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 62.
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 24.05548pt on input line 62.
+(Font)              scaled to size 24.05548pt on input line 65.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 21.16882pt on input line 71.
+(Font)              scaled to size 21.16882pt on input line 74.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 21.16882pt on input line 71.
+(Font)              scaled to size 21.16882pt on input line 74.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 71.
+(Font)              size <20.74> substituted on input line 74.
 
-LaTeX Font Info:    Calculating math sizes for size <22> on input line 73.
+LaTeX Font Info:    Calculating math sizes for size <22> on input line 76.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <15.39993> not available
-(Font)              size <14.4> substituted on input line 73.
+(Font)              size <14.4> substituted on input line 76.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <22> not available
-(Font)              size <20.74> substituted on input line 73.
+(Font)              size <20.74> substituted on input line 76.
 
 
 LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <15.39993> not available
-(Font)              size <14.4> substituted on input line 73.
+(Font)              size <14.4> substituted on input line 76.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <22> not available
-(Font)              size <20.74> substituted on input line 73.
+(Font)              size <20.74> substituted on input line 76.
 
 
 LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <15.39993> not available
-(Font)              size <14.4> substituted on input line 73.
+(Font)              size <14.4> substituted on input line 76.
 
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 14.8181pt on input line 73.
+(Font)              scaled to size 14.8181pt on input line 76.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 10.58441pt on input line 73.
+(Font)              scaled to size 10.58441pt on input line 76.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 7.69775pt on input line 75.
+(Font)              scaled to size 7.69775pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 5.77332pt on input line 75.
+(Font)              scaled to size 5.77332pt on input line 78.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 75.
+(Font)              scaled to size 28.86658pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 28.86658pt on input line 75.
+(Font)              scaled to size 28.86658pt on input line 78.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <30> not available
-(Font)              size <24.88> substituted on input line 75.
+(Font)              size <24.88> substituted on input line 78.
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 26.94214pt on input line 80.
+(Font)              scaled to size 26.94214pt on input line 83.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 26.94214pt on input line 80.
+(Font)              scaled to size 26.94214pt on input line 83.
 
 LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <28> not available
-(Font)              size <24.88> substituted on input line 80.
+(Font)              size <24.88> substituted on input line 83.
 
 [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 101.
+(Font)              scaled to size 23.94002pt on input line 104.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 101.
+(Font)              scaled to size 23.94002pt on input line 104.
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' in size <24.88> not available
-(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 101.
+(Font)              Font shape `JT1/hgt/m/n' tried instead on input line 104.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 101.
+(Font)              scaled to size 23.94002pt on input line 104.
 LaTeX Font Info:    Font shape `JY1/hmc/bx/n' in size <24.88> not available
-(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 101.
+(Font)              Font shape `JY1/hgt/m/n' tried instead on input line 104.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 23.94002pt on input line 101.
+(Font)              scaled to size 23.94002pt on input line 104.
  (./MasterPaper.toc
 LaTeX Font Info:    Font shape `JT1/hmc/bx/n' in size <12> not available
 (Font)              Font shape `JT1/hgt/m/n' tried instead on input line 1.
@@ -434,6 +433,13 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 ]
+File: figurefolder/chapter2/GaFlowchart.pdf Graphic file (type pdf)
+<figurefolder/chapter2/GaFlowchart.pdf>
+
+
+LaTeX Warning: Float too large for page by 33.14404pt on input line 64.
+
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -445,7 +451,9 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[6]
+[6
+
+]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -454,6 +462,21 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [8]
+File: figure/chapter2/mikawa2.eps Graphic file (type eps)
+<figure/chapter2/mikawa2.eps>
+LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 151.
+LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 151.
+File: figure/chapter2/mikawa2.eps Graphic file (type eps)
+<figure/chapter2/mikawa2.eps>
+File: figure/chapter2/mikawa2.eps Graphic file (type eps)
+<figure/chapter2/mikawa2.eps>
+
+
+LaTeX Warning: Float too large for page by 37.57957pt on input line 167.
+
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -461,21 +484,36 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[10])
+[10
+
+]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [11]
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[12]
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[13])
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[14]
 \openout2 = `chapter3.aux'.
 
  (./chapter3.tex
 第 3 章
 File: images/chapter3/winper.eps Graphic file (type eps)
 <images/chapter3/winper.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[12
+[15
 
 
 
@@ -484,44 +522,49 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[13]
-File: images/chapter3/sports_bar.eps Graphic file (type eps)
- <images/chapter3/sports_bar.eps>
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[14]
-File: images/chapter3/robot.eps Graphic file (type eps)
- <images/chapter3/robot.eps>
-File: images/chapter3/Vive.eps Graphic file (type eps)
- <images/chapter3/Vive.eps>
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[15]
-File: images/chapter3/bar_scene.eps Graphic file (type eps)
- <images/chapter3/bar_scene.eps>
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
 [16]
+File: images/chapter3/sports_bar.eps Graphic file (type eps)
+<images/chapter3/sports_bar.eps>
+
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[17]
+File: images/chapter3/robot.eps Graphic file (type eps)
+<images/chapter3/robot.eps>
+File: images/chapter3/Vive.eps Graphic file (type eps)
+<images/chapter3/Vive.eps>
+
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[18]
+File: images/chapter3/bar_scene.eps Graphic file (type eps)
+<images/chapter3/bar_scene.eps>
+
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[19]
 File: images/chapter3/Idle.eps Graphic file (type eps)
- <images/chapter3/Idle.eps>
+<images/chapter3/Idle.eps>
 File: images/chapter3/happy.eps Graphic file (type eps)
- <images/chapter3/happy.eps>
+<images/chapter3/happy.eps>
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 File: images/chapter3/sad.eps Graphic file (type eps)
 <images/chapter3/sad.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[17]
+[20]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[18])
+[21])
 \openout2 = `chapter4.aux'.
 
  (./chapter4.tex
@@ -530,30 +573,12 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[19
+[22
 
 
 
 
 ]
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[20]
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[21
-
-]
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[22]
-File: images/chapter4/0416.eps Graphic file (type eps)
- <images/chapter4/0416.eps>
-File: images/chapter4/0418.eps Graphic file (type eps)
- <images/chapter4/0418.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -561,77 +586,104 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[24]
+[24
+
+]
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [25]
-File: images/chapter4/Q1.eps Graphic file (type eps)
- <images/chapter4/Q1.eps>
-File: images/chapter4/Q2.eps Graphic file (type eps)
- <images/chapter4/Q2.eps>
+File: images/chapter4/0416.eps Graphic file (type eps)
+<images/chapter4/0416.eps>
+File: images/chapter4/0418.eps Graphic file (type eps)
+<images/chapter4/0418.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [26]
-File: images/chapter4/Q3.eps Graphic file (type eps)
- <images/chapter4/Q3.eps>
-File: images/chapter4/Q4.eps Graphic file (type eps)
- <images/chapter4/Q4.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [27]
-File: images/chapter4/Q5.eps Graphic file (type eps)
- <images/chapter4/Q5.eps>
-File: images/chapter4/Q6.eps Graphic file (type eps)
- <images/chapter4/Q6.eps>
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [28]
-File: images/chapter4/Q7.eps Graphic file (type eps)
- <images/chapter4/Q7.eps>
-File: images/chapter4/Q8.eps Graphic file (type eps)
- <images/chapter4/Q8.eps>
+File: images/chapter4/Q1.eps Graphic file (type eps)
+<images/chapter4/Q1.eps>
+File: images/chapter4/Q2.eps Graphic file (type eps)
+<images/chapter4/Q2.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [29]
-File: images/chapter4/Q9.eps Graphic file (type eps)
- <images/chapter4/Q9.eps>
-File: images/chapter4/Q10.eps Graphic file (type eps)
- <images/chapter4/Q10.eps>
+File: images/chapter4/Q3.eps Graphic file (type eps)
+<images/chapter4/Q3.eps>
+File: images/chapter4/Q4.eps Graphic file (type eps)
+<images/chapter4/Q4.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [30]
-File: images/chapter4/Q11.eps Graphic file (type eps)
- <images/chapter4/Q11.eps>
-File: images/chapter4/Q12.eps Graphic file (type eps)
- <images/chapter4/Q12.eps>
+File: images/chapter4/Q5.eps Graphic file (type eps)
+<images/chapter4/Q5.eps>
+File: images/chapter4/Q6.eps Graphic file (type eps)
+<images/chapter4/Q6.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [31]
-File: images/chapter4/Q13.eps Graphic file (type eps)
- <images/chapter4/Q13.eps>
-File: images/chapter4/Q14.eps Graphic file (type eps)
- <images/chapter4/Q14.eps>
+File: images/chapter4/Q7.eps Graphic file (type eps)
+<images/chapter4/Q7.eps>
+File: images/chapter4/Q8.eps Graphic file (type eps)
+<images/chapter4/Q8.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [32]
-File: images/chapter4/Q15.eps Graphic file (type eps)
- <images/chapter4/Q15.eps>
+File: images/chapter4/Q9.eps Graphic file (type eps)
+<images/chapter4/Q9.eps>
+File: images/chapter4/Q10.eps Graphic file (type eps)
+<images/chapter4/Q10.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[33])
+[33]
+File: images/chapter4/Q11.eps Graphic file (type eps)
+<images/chapter4/Q11.eps>
+File: images/chapter4/Q12.eps Graphic file (type eps)
+<images/chapter4/Q12.eps>
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [34]
+File: images/chapter4/Q13.eps Graphic file (type eps)
+<images/chapter4/Q13.eps>
+File: images/chapter4/Q14.eps Graphic file (type eps)
+<images/chapter4/Q14.eps>
+
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[35]
+File: images/chapter4/Q15.eps Graphic file (type eps)
+<images/chapter4/Q15.eps>
+
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[36])
+Overfull \vbox (4.49998pt too high) has occurred while \output is active []
+
+
+[37]
 \openout2 = `Conclusion.aux'.
 
  (./Conclusion.tex
@@ -640,7 +692,7 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[35
+[38
 
 
 
@@ -649,10 +701,10 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[36]
+[39]
 \openout2 = `acknowledgement.aux'.
 
- (./acknowledgement.tex) [37
+ (./acknowledgement.tex) [40
 
 
 
@@ -668,7 +720,7 @@ S.Dieleman\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 D.Grewe\JY1/hmc/m/n/12 ， \OT1/cm
 /m/n/12 J.Nham\JY1/hmc/m/n/12 ，
  []
 
-[38
+[41
 
 
 
@@ -677,11 +729,11 @@ S.Dieleman\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 D.Grewe\JY1/hmc/m/n/12 ， \OT1/cm
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[39])
+[42])
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[40] (./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
+[43] (./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./Conclusion.aux) (./acknowledgement.aux) (./reference.aux))
 
 LaTeX Font Warning: Size substitutions with differences
@@ -689,12 +741,12 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4799 strings out of 475427
- 70959 string characters out of 5791343
- 409877 words of memory out of 5000000
- 26401 multiletter control sequences out of 15000+600000
- 491692 words of font info for 138 fonts, out of 8000000 for 9000
+ 4839 strings out of 475427
+ 71739 string characters out of 5791343
+ 410403 words of memory out of 5000000
+ 26434 multiletter control sequences out of 15000+600000
+ 491894 words of font info for 140 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  55i,12n,62p,173265b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on MasterPaper.dvi (43 pages, 86576 bytes).
+Output written on MasterPaper.dvi (46 pages, 87612 bytes).
