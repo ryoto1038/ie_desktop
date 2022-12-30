@@ -9,23 +9,23 @@
 \contentsline {section}{\numberline {2.2}対話型進化計算}{11}{}%
 \contentsline {subsection}{\numberline {2.2.1}対話型進化計算の概要}{11}{}%
 \contentsline {subsection}{\numberline {2.2.2}対話型遺伝的アルゴリズム}{11}{}%
-\contentsline {section}{\numberline {2.3}感性とロボット}{13}{}%
-\contentsline {subsection}{\numberline {2.3.1}ロボットの進化}{13}{}%
-\contentsline {subsection}{\numberline {2.3.2}性格特性とハンドジェスチャ}{13}{}%
-\contentsline {chapter}{\numberline {第3章}臨場感を演出する集団ロボットの内部モデル}{15}{}%
-\contentsline {section}{\numberline {3.1}モデルの概要}{15}{}%
-\contentsline {subsection}{\numberline {3.1.1}試合状況の読み取り}{15}{}%
-\contentsline {subsection}{\numberline {3.1.2}感情の生成方法}{16}{}%
-\contentsline {section}{\numberline {3.2}実験環境}{17}{}%
-\contentsline {subsection}{\numberline {3.2.1}スポーツバーでの観戦}{19}{}%
-\contentsline {subsection}{\numberline {3.2.2}ロボット集団の動作}{20}{}%
-\contentsline {chapter}{\numberline {第4章}実ユーザによる評価実験}{22}{}%
-\contentsline {section}{\numberline {4.1}実験概要}{22}{}%
-\contentsline {section}{\numberline {4.2}実験条件}{24}{}%
-\contentsline {subsection}{\numberline {4.2.1}観戦する試合映像}{24}{}%
-\contentsline {subsection}{\numberline {4.2.2}ロボット集団のパラメータ}{24}{}%
-\contentsline {section}{\numberline {4.3}実験結果}{27}{}%
-\contentsline {section}{\numberline {4.4}考察}{37}{}%
-\contentsline {chapter}{\numberline {第5章}結論}{38}{}%
-\contentsline {chapter}{謝辞}{40}{}%
-\contentsline {chapter}{参考文献}{41}{}%
+\contentsline {section}{\numberline {2.3}感性とロボット}{14}{}%
+\contentsline {subsection}{\numberline {2.3.1}ロボットの進化}{14}{}%
+\contentsline {subsection}{\numberline {2.3.2}性格特性とハンドジェスチャ}{14}{}%
+\contentsline {chapter}{\numberline {第3章}臨場感を演出する集団ロボットの内部モデル}{16}{}%
+\contentsline {section}{\numberline {3.1}モデルの概要}{16}{}%
+\contentsline {subsection}{\numberline {3.1.1}試合状況の読み取り}{16}{}%
+\contentsline {subsection}{\numberline {3.1.2}感情の生成方法}{17}{}%
+\contentsline {section}{\numberline {3.2}実験環境}{18}{}%
+\contentsline {subsection}{\numberline {3.2.1}スポーツバーでの観戦}{20}{}%
+\contentsline {subsection}{\numberline {3.2.2}ロボット集団の動作}{21}{}%
+\contentsline {chapter}{\numberline {第4章}実ユーザによる評価実験}{23}{}%
+\contentsline {section}{\numberline {4.1}実験概要}{23}{}%
+\contentsline {section}{\numberline {4.2}実験条件}{25}{}%
+\contentsline {subsection}{\numberline {4.2.1}観戦する試合映像}{25}{}%
+\contentsline {subsection}{\numberline {4.2.2}ロボット集団のパラメータ}{25}{}%
+\contentsline {section}{\numberline {4.3}実験結果}{28}{}%
+\contentsline {section}{\numberline {4.4}考察}{38}{}%
+\contentsline {chapter}{\numberline {第5章}結論}{39}{}%
+\contentsline {chapter}{謝辞}{41}{}%
+\contentsline {chapter}{参考文献}{42}{}%

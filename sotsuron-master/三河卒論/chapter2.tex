@@ -147,15 +147,15 @@ GAの対象となる問題を遺伝子列に変換する．
 
 
 \subfigure[一点交叉]{
-\includegraphics[width=15cm]{figure/chapter2/mikawa2.eps}
+\includegraphics[width=15cm]{figure/chapter2/crossover_1.eps}
 \label{一点交叉}}
 
 \subfigure[複数点交叉]{
-\includegraphics[width=15cm]{figure/chapter2/mikawa2.eps}
+\includegraphics[width=15cm]{figure/chapter2/crossover_2.eps}
 \label{複数点交叉}}
 
 \subfigure[一様交叉]{
-\includegraphics[width=15cm]{figure/chapter2/mikawa2.eps}
+\includegraphics[width=15cm]{figure/chapter2/crossover_3.eps}
 \label{一様交叉}}
 
 \caption{交叉処理}
@@ -191,6 +191,21 @@ GAの対象となる問題を遺伝子列に変換する．
 
 \end{description}
 
+\begin{figure}[hbt]
+\centering
+\subfigure[転座方式]{
+\includegraphics[scale=0.8]{figure/chapter2/mutation_1.eps}
+\label{転座方式}}
+
+
+\subfigure[逆位方式]{
+\includegraphics[scale=0.8]{figure/chapter2/mutation_2.eps}
+\label{逆位方式}}
+
+\caption{突然変異処理}
+\label{fig:2.3}
+\end{figure}
+
 
 \newpage
 
@@ -215,6 +230,17 @@ IGAは，GA処理における解候補評価をユーザが自らの感性に基
 IGAの基本的な処理の流れを図に示す．まず初期解候補を生成する．次に，解候補をユーザに提示し，ユーザが主観的評価を行う．ユーザによる評価が終了すると，ユーザによって与えられた各解候補の評価をもとに選択・交叉・突然変異等の処理が行われ，新たな解候補を生成し，再びユーザに提示する．このような処理を繰り返し，ユーザの感性に合う解候補を生成する．
 
 IGAは，ユーザ評価を取り入れた進化計算手法であるIECにおいてGAの進化計算アルゴリズムを適応させた手法である．すなわち，IGAとは通常のGAにおいて適応度を決定する処理をユーザが行う手法である．ユーザの主観的評価が適応度に反映されるため，IGAは特にユーザの感覚的，直観的な評価が必要とされる問題の解決に多く用いられる．また一般的にIGAはユーザの評価回数が多いほど最適化性能が高くなる傾向にある．したがって，IGAを用いた最適化システムが十分な最適化性能を発揮するためには多くのユーザ評価が必要となる．しかし，ユーザに多くの評価を求めることは，ユーザの評価負担の増加に繋がる可能性がある．
+
+\begin{figure}[p]
+\begin{center}
+
+\vspace{1.5cm}
+\includegraphics[scale=0.45]{figurefolder/chapter2/IGaFlowchart.pdf}
+\caption{遺伝的アルゴリズムのフローチャート}
+\label{遺伝的アルゴリズムのフローチャート}
+
+\end{center}
+\end{figure}
 
 
 
