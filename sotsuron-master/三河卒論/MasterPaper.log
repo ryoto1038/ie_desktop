@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  31 DEC 2022 04:52
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  31 DEC 2022 19:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -207,12 +207,8 @@ File: l3backend-dvips.def 2022-10-26 L3 backend support: dvips
 LaTeX Warning: Unused global option(s):
     [jarticle].
 
-(./MasterPaper.aux (./introduction.aux) (./chapter2.aux
-
-LaTeX Warning: Label `遺伝的アルゴリズムのフローチャート' multiply defined.
-
-) (./chapter3.aux) (./chapter4.aux) (./Conclusion.aux) (./acknowledgement.aux)
-(./reference.aux))
+(./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
+(./chapter4.aux) (./Conclusion.aux) (./acknowledgement.aux) (./reference.aux))
 \openout1 = `MasterPaper.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 54.
@@ -388,13 +384,41 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
  (./introduction.tex
 第 1 章
 
+LaTeX Warning: Citation `hamasuta' on page 1 undefined on input line 17.
+
+
+LaTeX Warning: Citation `healsio' on page 1 undefined on input line 25.
+
+
+LaTeX Warning: Citation `go' on page 1 undefined on input line 25.
+
+
+LaTeX Warning: Citation `toyota' on page 1 undefined on input line 28.
+
+
+LaTeX Warning: Citation `aibo' on page 1 undefined on input line 28.
+
+
+LaTeX Warning: Citation `deep' on page 1 undefined on input line 30.
+
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [1
 
 
-])
+]
+
+LaTeX Warning: Citation `kao' on page 2 undefined on input line 34.
+
+
+LaTeX Warning: Citation `syuwa' on page 2 undefined on input line 34.
+
+
+LaTeX Warning: Citation `higengo' on page 2 undefined on input line 35.
+
+)
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -519,6 +543,9 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
  (./chapter3.tex
 第 3 章
+
+LaTeX Warning: Citation `kyusute' on page 16 undefined on input line 22.
+
 File: images/chapter3/winper.eps Graphic file (type eps)
 <images/chapter3/winper.eps>
 
@@ -531,10 +558,26 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 ]
+
+LaTeX Warning: Citation `rinjyo3' on page 17 undefined on input line 49.
+
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [17]
+
+LaTeX Warning: Citation `unity' on page 18 undefined on input line 67.
+
+
+LaTeX Warning: Citation `bar' on page 18 undefined on input line 69.
+
+
+LaTeX Warning: Citation `lilrobot' on page 18 undefined on input line 69.
+
+
+LaTeX Warning: Citation `vive' on page 18 undefined on input line 71.
+
 File: images/chapter3/sports_bar.eps Graphic file (type eps)
 <images/chapter3/sports_bar.eps>
 
@@ -595,6 +638,10 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
 [24]
+
+LaTeX Warning: Citation `patv' on page 25 undefined on input line 71.
+
+
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -724,44 +771,32 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 ]
 \openout2 = `reference.aux'.
 
- (./reference.tex
-Underfull \hbox (badness 10000) in paragraph at lines 18--21
-\OT1/cmr/m/n/12 I.Antonoglou\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 V.Panneershelvam
-\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 M.Lanctot\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 
-S.Dieleman\JY1/hmc/m/n/12 ， \OT1/cmr/m/n/12 D.Grewe\JY1/hmc/m/n/12 ， \OT1/cmr
-/m/n/12 J.Nham\JY1/hmc/m/n/12 ，
- []
-
-[42
+ (./reference.tex [42
 
 
 
 
-]
+])
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
-[43])
-Overfull \vbox (4.49998pt too high) has occurred while \output is active []
-
-
-[44] (./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
+[43] (./MasterPaper.aux (./introduction.aux) (./chapter2.aux) (./chapter3.aux)
 (./chapter4.aux) (./Conclusion.aux) (./acknowledgement.aux) (./reference.aux))
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 25.12pt have occurred.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4869 strings out of 475427
- 72655 string characters out of 5791343
- 410504 words of memory out of 5000000
- 26459 multiletter control sequences out of 15000+600000
+ 4871 strings out of 475427
+ 72818 string characters out of 5791343
+ 410419 words of memory out of 5000000
+ 26461 multiletter control sequences out of 15000+600000
  491894 words of font info for 140 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  55i,12n,62p,173265b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on MasterPaper.dvi (47 pages, 88276 bytes).
+Output written on MasterPaper.dvi (46 pages, 84968 bytes).
