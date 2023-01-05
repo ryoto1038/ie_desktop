@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  3 JAN 2023 20:27
+This is e-pTeX, Version 3.141592653-p4.0.0-220214-2.6 (utf8.sjis) (TeX Live 2022) (preloaded format=platex 2022.12.17)  6 JAN 2023 02:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -464,10 +464,6 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 File: figurefolder/chapter2/GaFlowchart.pdf Graphic file (type pdf)
 <figurefolder/chapter2/GaFlowchart.pdf>
 
-
-LaTeX Warning: Float too large for page by 33.14404pt on input line 64.
-
-
 Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 
 
@@ -493,9 +489,9 @@ Overfull \vbox (4.49998pt too high) has occurred while \output is active []
 File: figure/chapter2/crossover_1.eps Graphic file (type eps)
 <figure/chapter2/crossover_1.eps>
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 151.
+(Font)              scaled to size 9.6222pt on input line 153.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.6222pt on input line 151.
+(Font)              scaled to size 9.6222pt on input line 153.
 File: figure/chapter2/crossover_2.eps Graphic file (type eps)
 <figure/chapter2/crossover_2.eps>
 File: figure/chapter2/crossover_3.eps Graphic file (type eps)
@@ -799,4 +795,4 @@ Here is how much of TeX's memory you used:
  929 hyphenation exceptions out of 8191
  55i,12n,62p,173265b,1019s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on MasterPaper.dvi (46 pages, 84304 bytes).
+Output written on MasterPaper.dvi (46 pages, 85512 bytes).
